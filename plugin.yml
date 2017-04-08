@@ -1,0 +1,8 @@
+name: BadPets
+author: Niasio
+version: Beta 1.0
+main: fr.niasio.badblock.Pets
+commands:
+  pets:
+    description: Commande
+    usage: /pets
