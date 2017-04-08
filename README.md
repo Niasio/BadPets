@@ -1,2 +1,2 @@
 # BadPets
-A plugin of pets with 3 pets !
+https://www.spigotmc.org/resources/badpets.28911/
